@@ -3,3 +3,6 @@ __pycache__/
 src/reports/
 src/traces/
 *.sqlite
+
+# local venv for Lab 9 (created with python -m venv .venv inside src/)
+src/.venv/
